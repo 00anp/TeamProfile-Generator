@@ -1,0 +1,25 @@
+{
+  "name": "teamprofile-generator",
+  "version": "1.0.0",
+  "description": "NPM app that let's the user create cards for each employee Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00anp/TeamProfile-Generator.git"
+  },
+  "author": "00anp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00anp/TeamProfile-Generator/issues"
+  },
+  "homepage": "https://github.com/00anp/TeamProfile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
